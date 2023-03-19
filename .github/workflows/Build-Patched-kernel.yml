@@ -1,4 +1,4 @@
-name: Build Patched Kernel
+- name: Build Patched Kernel
 on:
   watch:
     types: [started]
